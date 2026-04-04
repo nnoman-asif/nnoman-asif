@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI engineering across models, pipelines, and production systems.<br>🤝 I’m looking to collaborate on Any AI/ML project that solves real problems.<br>🤝 I’m looking for help with Challenging AI problems and product-minded teams.<br>🌱 I’m currently learning Broader, advanced AI techniques.<br>💭 Ask me about Related to AI.<br>⚡ Fun fact I learn by building.
+🔭 I'm currently working on AI engineering across models, pipelines, and production systems.<br>🤝 I'm looking to collaborate on Any AI/ML project that solves real problems.<br>🤝 I'm looking for help with Challenging AI problems and product-minded teams.<br>🌱 I'm currently learning Broader, advanced AI techniques.<br>💭 Ask me about Related to AI.<br>⚡ Fun fact I learn by building.
 
 
 ## 🌐 Socials:
